@@ -26,9 +26,6 @@
           </div>  <br> 
     <div style="text-align: left;"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fimhs94%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
        </div> 
-    </div>
-    <div style="text-align: left;"> 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{imhs94}?pet-id=1" width="1000" height="120"/>
-</a>
-    
+
+
+[![gitanimals](https://render.gitanimals.org/farms/imhs94)](https://github.com/devxb/gitanimals)
