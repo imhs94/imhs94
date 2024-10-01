@@ -28,4 +28,10 @@
        </div> 
 
 
-[![gitanimals](https://render.gitanimals.org/farms/imhs94)](https://github.com/devxb/gitanimals)
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/imhs94"
+  width="600"
+  height="300"
+/>
+</a>
