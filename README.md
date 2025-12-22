@@ -45,15 +45,6 @@
 <br>
 
 <div align="center">
-  <h3 style="border-bottom: 2px solid #302b63; display: inline-block; padding-bottom: 5px;">📊 GitHub Stats</h3>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=imhs94&show_icons=true&theme=gotham&bg_color=0d1117&border_color=302b63" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imhs94&layout=compact&theme=gotham&bg_color=0d1117&border_color=302b63" height="150" alt="languages graph" />
-</div>
-
-<br>
-
-<div align="center">
   <h3 style="border-bottom: 2px solid #302b63; display: inline-block; padding-bottom: 5px;">🧑‍💻 Contact</h3>
   <br>
   <a href="mailto:imhs1248@gmail.com">
