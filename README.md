@@ -178,23 +178,12 @@
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=imhs1248&show_icons=true&theme=tokyonight&hide_border=true" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imhs1248&layout=compact&theme=tokyonight&hide_border=true" height="165">
-
-</div>
-
----
-
 ## GitAnimals
 
 <div align="center">
 
 <a href="https://github.com/git-goods/gitanimals">
-  <img src="https://render.gitanimals.org/farms/imhs1248" width="600" alt="GitAnimals">
+  <img src="https://render.gitanimals.org/lines/imhs1248" width="1000" height="150" alt="GitAnimals">
 </a>
 
 </div>
