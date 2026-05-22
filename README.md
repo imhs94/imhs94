@@ -10,7 +10,7 @@
 <br>
 
 [![Gmail](https://img.shields.io/badge/Gmail-imhs1248%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:imhs1248@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-imhs1248-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/imhs1248)
+[![GitHub](https://img.shields.io/badge/GitHub-imhs1248-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/imhs94)
 
 </div>
 
