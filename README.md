@@ -2,9 +2,9 @@
 
 # Hyeongseob Lim
 
-### Data Scientist · AI Engineer · Currently focused on Computational Toxicology
+### Data Scientist · AI/ML Engineer · Computational Toxicology
 
-다양한 데이터 기반 프로젝트를 경험한 데이터 사이언티스트이며,  
+데이터 기반 문제 해결과 AI 모델링을 중심으로 다양한 프로젝트를 경험해왔으며,  
 현재는 **계산독성학, AI 기반 독성 예측, SaaS 서비스 파이프라인** 분야에 집중하고 있습니다.
 
 <br>
@@ -73,40 +73,70 @@
 | Data Analysis | 데이터를 정리하고 탐색하며 문제 해결에 필요한 패턴과 인사이트를 도출합니다. |
 | Machine Learning | 정형·비정형 데이터를 활용해 예측, 분류, 평가 모델을 설계하고 개선합니다. |
 | Deep Learning | 딥러닝 기반 모델링을 통해 복잡한 데이터 구조와 패턴을 학습하는 문제를 다룹니다. |
+| Graph-based Modeling | 그래프 구조 데이터와 분자 그래프를 활용한 모델링 흐름에 관심이 있습니다. |
 | Computational Toxicology | 화학 구조와 독성 데이터를 기반으로 QSAR 및 AI 독성 예측 모델을 개발합니다. |
 | Similar Compound Search | 유사물질 기반 근거 제시와 예측 신뢰도 보강을 고려합니다. |
-| QPRF Report Pipeline | 예측 결과를 근거 중심의 리포트 형태로 자동화하는 흐름에 관심이 있습니다. |
+| Report Automation | 예측 결과를 근거 중심의 리포트 형태로 자동화하는 흐름에 관심이 있습니다. |
 | SaaS Backend Logic | 모델 추론 결과를 API, DB, 사용자 서비스 기능으로 연결합니다. |
 
 ---
 
 ## Tech Stack
 
-### AI & Data
+### AI / Modeling
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
+  <img src="https://img.shields.io/badge/Deep_Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch_Geometric-3C2179?style=flat-square&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/RDKit-336791?style=flat-square&logo=python&logoColor=white">
 </p>
 
-### Data Engineering & Database
+### Backend / API
 
 <p>
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white">
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/Uvicorn-499848?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white">
+  <img src="https://img.shields.io/badge/Alembic-6B7280?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white">
 </p>
 
-### Backend & Tools
+### Frontend / Service
 
 <p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white">
+  <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white">
+</p>
+
+### Data / Infra
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white">
 </p>
+
+---
+
+## Modeling Experience
+
+- Machine learning model development for classification and regression tasks
+- Tree-based models and ensemble methods for structured data
+- Deep learning model development using PyTorch
+- Graph neural network modeling with PyTorch Geometric
+- Molecular data processing and cheminformatics workflows using RDKit
+- Model evaluation, interpretation, and result reporting
 
 ---
 
@@ -132,7 +162,7 @@
 - AI 기반 독성 예측 모델 고도화
 - QSAR 모델의 해석 가능성 및 신뢰성 개선
 - 화학물질 유사도 기반 근거 제시
-- QPRF 형식의 예측 근거 리포트 자동화
+- 예측 근거 리포트 자동화
 - SaaS 환경에서의 모델 API 및 백엔드 아키텍처
 - 연구용 모델을 실제 서비스 구조로 전환하는 과정
 
@@ -154,6 +184,18 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=imhs1248&show_icons=true&theme=tokyonight&hide_border=true" height="165">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imhs1248&layout=compact&theme=tokyonight&hide_border=true" height="165">
+
+</div>
+
+---
+
+## GitAnimals
+
+<div align="center">
+
+<a href="https://github.com/git-goods/gitanimals">
+  <img src="https://render.gitanimals.org/farms/imhs1248" width="600" alt="GitAnimals">
+</a>
 
 </div>
 
