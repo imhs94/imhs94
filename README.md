@@ -182,8 +182,8 @@
 
 <div align="center">
 
-<a href="https://github.com/git-goods/gitanimals">
-  <img src="https://render.gitanimals.org/lines/imhs94" width="1000" height="150" alt="GitAnimals">
+<a href="https://github.com/devxb/gitanimals">
+  img src="https://render.gitanimals.org/farms/imhs94" width="800" height="400" alt="GitAnimals">
 </a>
 
 </div>
